@@ -1,0 +1,42 @@
+.header{
+    display: flex;
+    justify-content: space-evenly;
+   
+    
+}
+.barra{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    
+
+}
+
+.container-btn {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.buttonheader{
+    width: 100px;
+    height: 50px;
+    font-size: 16px;
+    padding: 7px;
+    border-radius: 20px;
+    margin-left: 20px;
+    
+}
+
+.input{
+    display:flex;
+    align-content: flex-end;
+    width: 200px;
+    height: 20px;
+}
+.button{
+    width: 30px;
+    height: 26px;
+}

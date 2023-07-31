@@ -1,0 +1,37 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-content: flex-end;
+    background-color: rgba(38, 143, 228, 0.563);
+    font-size: 25px;
+    border-radius: 10px;
+    padding: 15px;
+    height: 50px;
+}
+.button1{
+    background-color: #FFD700;
+    font-size: 18px;
+    width: 125px;
+    border-radius: 24px;
+}
+.button2{
+    font-size: 18px;
+    width: 100px;
+    border-radius: 24px;
+}
+.button3{
+    font-size: 18px;
+    width: 100px;
+    border-radius: 24px;
+}
+.button4{
+    font-size: 18px;
+    width: 100px;
+    border-radius: 24px;
+}
+.button5{
+    font-size: 18px;
+    width: 100px;
+    border-radius: 24px;
+}

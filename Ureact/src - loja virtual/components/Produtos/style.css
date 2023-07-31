@@ -1,0 +1,25 @@
+.produtos{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-end;
+    margin-top: 50px;
+}
+p3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+p4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+
+}
+.buttonv{
+    background-color: rgb(109, 167, 86);
+    border-radius: 24px;
+    font-size: 18px;
+}
+.buttonlista{
+    border-radius: 24px;
+    font-size: 18px;
+    margin-top: 8px;
+}
